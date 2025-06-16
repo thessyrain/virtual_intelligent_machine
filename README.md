@@ -55,5 +55,6 @@ Author
 
 Ibukunoluwa Theresa Ajibare Asuni
 MSc Intelligent Automation
+ibukunoluwaajibare@gmail.com
 University of Skövde, Sweden
 
