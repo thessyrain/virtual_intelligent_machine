@@ -32,6 +32,11 @@ Technologies Used
 5. Digital Twin Simulation: Representing the real-world process in a virtual environment, helping visualize sorting actions.
 
 
+Link to the document:
+https://docs.google.com/presentation/d/1vkaQ6XENmiXpIohCGlkndu5CwCl_48vY3x1PezahsQs/edit?slide=id.g358d9a992fe_0_1#slide=id.g358d9a992fe_0_1
+
+
+
 
 Key Features
 
