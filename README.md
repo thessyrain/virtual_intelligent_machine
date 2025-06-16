@@ -2,7 +2,7 @@
 
 Virtual Intelligent Machine – Object Sorting System
 
-This document describes the **Virtual Intelligent Machine (VIM) project, a smart, automated system designed to sort objects into five different boxes using intelligent decision-making, vision processing, and programmable logic control. The system simulates a real-world industrial environment by integrating vision, communication, and control technologies to automate object classification and sorting.
+This document describes the Virtual Intelligent Machine (VIM) project, a smart, automated system designed to sort objects into five different boxes using intelligent decision-making, vision processing, and programmable logic control. The system simulates a real-world industrial environment by integrating vision, communication, and control technologies to automate object classification and sorting.
 
 
 Project Description
